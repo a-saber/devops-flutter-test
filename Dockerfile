@@ -34,3 +34,4 @@ USER flutteruser
 
 # Build the Flutter app
 RUN flutter build apk --release
+
